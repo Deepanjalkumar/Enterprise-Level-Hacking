@@ -15,3 +15,7 @@ AI (Prototype dashboard) to monitor those feature which went through and which w
 Customising my attack vector in such a way that all my attack will went through there defensive cyber team.
 --------------------------------------------------------------------------------------------------------------
 For this i am going to use my own silent exploits and the attack will be launch from various C&C.
+
+Defensive  Machine learning and deep learning approach to analyze and predict Enterprise level attack 
+------------------------------------------------------------------------------------------------------
+For this i am going to build ML OR DL model which would alert the enterprise if such attacks happen in future.
