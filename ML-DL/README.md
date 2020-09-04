@@ -20,4 +20,11 @@ Some of the factors which should be kept in mind are as follows:
                             The main idea behind such transformation is to deal with skewness and kurtosis
                             1-Skewness ranges from -1 to +1 and types are left, right and centered
                             2-Kurtosis ranges from -3 to +3 and types are Meso,lept and plato
-     
+   
+3- Dealing with imbalance features in datasets  
+-------------------------------------------------------------------------------------------------
+               Imbalance feature basically means those features where categorical value are dominant in nature
+               for example we have feature Hacked        Hacked:  Yes     No   
+                                                                  70%     30
+               In the example here Suppose 70% belong to yes and 30% to no then it is called as Imbalanced feature
+               In such case we usually conduct various techniques such resampling , ensemble technique and list goes on.
