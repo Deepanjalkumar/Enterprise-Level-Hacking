@@ -28,3 +28,12 @@ Some of the factors which should be kept in mind are as follows:
                                                                   70%     30
                In the example here Suppose 70% belong to yes and 30% to no then it is called as Imbalanced feature
                In such case we usually conduct various techniques such resampling , ensemble technique and list goes on.
+
+4- Dealing with other factors:
+------------------------------------------------------------------------------------------------------------
+               Factors other than those mention are:
+                            1-Performance metrics of the model
+                            2-Interpretation of the model
+                            3-Time Factor
+                            4-Success metrics
+                            5-Tracking metrics( For success metrics)
