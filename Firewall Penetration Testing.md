@@ -38,4 +38,6 @@ Step 5. Firewall enumeration (Figure out rule book)
            
            other values: url, authenticated user and time & day
 
+Step 6. Firewalking:
+
            
