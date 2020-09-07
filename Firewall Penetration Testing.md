@@ -5,6 +5,8 @@ Step 1. Locating The Firewall
            hping3 -T -1 www.firewall.com
            
            Identify firewall ip address
+           
+           nmap --script=firewalk --traceroute 10.10.10.10.
 
 Step 2. Conducting Traceroute
            
