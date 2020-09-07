@@ -40,4 +40,4 @@ Step 5. Firewall enumeration (Figure out rule book)
 
 Step 6. Firewalking:
 
-           
+Step 7. Firewall vulnerabilities           
