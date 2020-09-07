@@ -10,7 +10,22 @@ Step 2. Conducting Traceroute
            
            traceroute basically provide information regarding routing path of packets.
            
-Srep 3. Port scanning or enumeration:
+Step 3. Port scanning or enumeration:
       
-           nmap -sS -T4 -p 0-1024 Firewall-ip-address
+           nmap -sS -sV -T4 -p 0-1024 Firewall-ip-address
+           
+Step 4. Banner grabbing of firewall:
+
+           telnet 192.168.0.1  22
+           
+           nc -v 192.168.0.1
+           
+           dmitry -b 192.168.0.1
+           
+           curl -s -| 192.168.0.1 | grep -e "Server"
+           
+           nmap -sV --script=banner 192.168.0.0.1
+           
+           nmap -Pn -p 80 -sV --script=banner 192.168.0.1
+           
            
