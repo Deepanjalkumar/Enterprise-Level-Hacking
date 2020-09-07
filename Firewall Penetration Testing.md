@@ -27,5 +27,15 @@ Step 4. Banner grabbing of firewall:
            nmap -sV --script=banner 192.168.0.0.1
            
            nmap -Pn -p 80 -sV --script=banner 192.168.0.1
+        
+Step 5. Firewall enumeration (Figure out rule book)
+  
+           nmap -sV --script=banner 192.168.0.0.1
            
+           Testing firewall policy: Sourve ip/port, Destination ip/port, and zone that you wish to test.
+           
+           Test web policy: Policy that you wish to test
+           
+           other values: url, authenticated user and time & day
+
            
