@@ -30,7 +30,7 @@ For this i am going to use my own silent exploits and the attack will be launch 
 
 Defensive  Machine learning and deep learning approach to analyze and predict Enterprise level attack 
 ------------------------------------------------------------------------------------------------------
-For this i am going to build ML OR DL model which would alert the enterprise if such attacks happen in future.
+For this i am going to build ML OR DL model which would alert the enterprise if such attacks is in early stage.
 
 ![Report_h1](https://user-images.githubusercontent.com/55708909/92122900-a6e77080-ee19-11ea-9199-9c7537cf6a7d.png)
 ![Report_h2](https://user-images.githubusercontent.com/55708909/92123404-3b51d300-ee1a-11ea-89bc-1dbd54460685.png)
