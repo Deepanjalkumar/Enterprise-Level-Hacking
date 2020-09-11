@@ -1,5 +1,16 @@
 # Enterprise-Level-Hacking (Hacking The World Engine-019101901)
 -------------------------------------------------
+External Penetration Testing
+--------------------------------------------------------------------------
+
+Firewall Penetration Testing
+-------------------------------------------------------------------------
+Internal Penetration Testing
+------------------------------------------------------------------------
+Lateral Movement
+------------------------------------------------------------------------
+Priviledge escalation at Super user level (AD, Kerberos)
+------------------------------------------------------------------------
 Offensive attack at various level
 -------------------------------------------------
 Stage 1 of my project deals with usage of data harvested from anonymous sources and osint to do sniffing on cyber team .
